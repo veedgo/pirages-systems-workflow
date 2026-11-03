@@ -1,0 +1,7 @@
+ItemCode,PhotoID,ItemPhotoPlace,WebUse,ItemPhotoCount
+ST11221km,54E0020,1,False,1
+ST11221km,54E0020,2,False,1
+ST11221j,54E0020,3,False,1
+ST11221km,54E0020a,1,True,2
+ST11221km,54E0020b,1,False,3
+ST11221j,54E0020c,1,False,2
