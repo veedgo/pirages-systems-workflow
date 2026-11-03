@@ -10,9 +10,10 @@ A portfolio case study of extending an established Access environment to keep in
 - [Case study text](CASE_STUDY.md)
 - [Sources and evidence boundaries](SOURCE_GUIDE.md)
 
-## Supporting exhibit
+## Additional exhibits
 
 - [Shared image access for a private client](SHARED_IMAGE_ACCESS.md)
+- [Defining website requirements around an established business](WEBSITE_REQUIREMENTS.md) ([source note](WEBSITE_REQUIREMENTS_SOURCES.md))
 
 ## Exhibit examples
 
